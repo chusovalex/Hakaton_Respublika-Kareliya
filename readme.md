@@ -14,4 +14,4 @@
 #### Метрика:
 В качестве метрики выступает Recall по столбцу blocked.
 
-## [Решение тут]()
+## [Решение тут](https://github.com/chusovalex/Hakaton_Respublika-Kareliya/blob/main/Karelia_2022_09_21_github.ipynb)

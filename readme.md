@@ -14,4 +14,4 @@
 #### Метрика:
 В качестве метрики выступает Recall по столбцу blocked.
 
-## [Решение тут](https://github.com/chusovalex/gazprom_analitik_testovoe/blob/main/gazprom_test_2022_10_11_2307.ipynb)
+## [Решение тут](https://github.com/chusovalex/Hakaton_Respublika-Kareliya/blob/main/Karelia_2022_09_21_github.ipynb)
